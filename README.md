@@ -1,5 +1,9 @@
 # PyEdit - Advanced Python Text Editor
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Latest Release](https://img.shields.io/github/v/release/yourusername/python-text-editor?style=flat-square)
+
 ![Screenshot](screenshot.png)
 
 A feature-rich text editor built with Python and Tkinter, with syntax highlighting, dark mode, and more.
